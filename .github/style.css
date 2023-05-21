@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+   list-style: none;
+   display: inline;
+   justify-content: space-between;
+   margin:5px;
+
+}
